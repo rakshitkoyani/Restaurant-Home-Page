@@ -9,7 +9,7 @@ This is the home page of restaurant website.
 
 ## Demo
 
-https://raw.githubusercontent.com/rakshitkoyani/Restaurant-Home-Page/main/Project-2.png
+![demo](https://raw.githubusercontent.com/rakshitkoyani/Restaurant-Home-Page/main/Project-2.png)
 
 ## Run Locally
 
