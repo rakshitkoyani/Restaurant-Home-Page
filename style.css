@@ -13,7 +13,7 @@
 body {
   height: 100vh;
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)),
     url("./assets/pexels-maxyne-barcel-10402282\ 1.png");
 }
 
@@ -100,5 +100,5 @@ nav {
   position: relative;
   left: 35vw;
   cursor: pointer;
-  /* margin-bottom: 100px; */
+
 }
