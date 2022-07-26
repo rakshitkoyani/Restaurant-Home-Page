@@ -1,4 +1,4 @@
-# Restaurant Home Page [![Restaurant Home Page](https://img.shields.io/badge/Restaurant-Homepage-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Restaurant Home Page [![Template Project](https://img.shields.io/badge/Template-Project-blue)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 This is the home page of restaurant website.
 
